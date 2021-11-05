@@ -5320,6 +5320,11 @@ react-native-codegen@^0.0.7:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-read-sms@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-read-sms/-/react-native-read-sms-1.0.6.tgz#e5ee7bf58c1a2c324b55181eb20888dbad0ce83a"
+  integrity sha512-gya1vc2KNOM9V8d2W8TD4oHXeSOdrWQpeQk+0nvJWwKEYnvQwxZArxKTDbrLA8n538DU3uoOo1nGy8SB93YWVw==
+
 react-native@0.66.2:
   version "0.66.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.66.2.tgz#11035172a73f0815c28699b1fce3a6651dd6355b"
